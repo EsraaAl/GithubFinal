@@ -1,12 +1,13 @@
 
 
 def addition(a,b):
-	# add code here
-	# return result
+	print("1+1 is", addition(1,1))
+    return a+b
 
 def substraction(a,b):
-	# add code here
-	# return result
+	
+    print("1-1 is", substraction(1,1))
+    return a-b
 
 def multiplication(a,b):
 	# add code here
